@@ -1,0 +1,15 @@
+{
+  "name": "Ashish Singh",
+  "version": "0.1.0",
+  "description": "My personal website.",
+  "author": "Ashish Singh <ashishsingh@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ashishsingh21798/ashishsingh21798.github.com.git"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.10",
+    "gulp-minify-css": "~0.3.11",
+    "gulp-concat": "~2.4.3"
+  }
+}
