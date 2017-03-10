@@ -21,13 +21,13 @@ name: contact
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">Full Name  <span class="asterisk">*</span>
+	<label for="mce-FULLNAME">Full Name  <span class="asterisk">*</span>
 </label>
-	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+	<input type="text" value="" name="FULLNAME" class="required" id="mce-FULLNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-LNAME">Message </label>
-	<textarea rows="4" cols="75" name="comment" form="usrform"> </textarea>
+	<label for="mce-MESSAGE">Message </label>
+	<textarea rows="4" cols="80" name="comment" form="usrform"> </textarea>
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
