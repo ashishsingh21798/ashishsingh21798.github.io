@@ -9,6 +9,9 @@ permalink: /blog/:year/:month/:title/
 highlighter: rouge
 
 lab_projects:
+- name: "Secret Message"
+  link: "https://github.com/ashishsingh21798/Secret-Message"
+  desc: "Secret message decode for Friends or a loved one"
 - name: "Project Pytho"
   link: "https://github.com/ashishsingh21798/pytho"
   desc: "My peronal Digital Asistance"
