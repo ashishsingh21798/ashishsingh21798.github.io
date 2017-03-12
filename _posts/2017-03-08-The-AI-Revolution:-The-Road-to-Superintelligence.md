@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 We are on the edge of change comparable to the rise of human life on Earth. — Vernor Vinge
 
