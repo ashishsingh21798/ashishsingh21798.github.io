@@ -9,6 +9,9 @@ permalink: /blog/:year/:month/:title/
 highlighter: rouge
 
 lab_projects:
+- name: "Take Break"
+  link: "https://github.com/ashishsingh21798/Take-Break"
+  desc: "A simple python project to take break and see youtube video"
 - name: "Secret Message"
   link: "https://github.com/ashishsingh21798/Secret-Message"
   desc: "Secret message decode for Friends or a loved one"
