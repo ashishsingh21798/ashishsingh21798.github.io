@@ -5,8 +5,7 @@ published: true
 
     Google’s self-driving cars and robots get a lot of press, but the company’s real future is 
     in machine learning, the technology that enables computers to get smarter and more personal.
-
-    															 – Eric Schmidt (Google Chairman)
+      – Eric Schmidt (Google Chairman)
      
 In this post, we take a tour of the most popular machine learning algorithms.
 
