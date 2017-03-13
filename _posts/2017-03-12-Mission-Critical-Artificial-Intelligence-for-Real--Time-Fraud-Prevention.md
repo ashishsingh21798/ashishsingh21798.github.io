@@ -3,7 +3,8 @@ published: true
 ---
 The economy relies on secure and safe transactions. Maintaining a stable and efficient business depends on effective security. In particular, eliminating fraud is fundamental to the ongoing viability of many businesses, especially those buying and selling on the Internet. The question businesses are asking is, “how do we efficiently eliminate fraud in real-time?”
 
-![shutterstock_333070532-1200x847.jpg]({{site.baseurl}}/_posts/shutterstock_333070532-1200x847.jpg)
+![AI]({{site.baseurl}}/_posts/shutterstock_333070532-1200x847.jpg)
+
 
 # **Traditional fraud prevention tools alone have failed to reduce fraud**
 
